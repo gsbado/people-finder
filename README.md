@@ -1,30 +1,18 @@
-# User Explorer
+# React + Vite
 
-A simple React application that fetches users from a public API and allows searching and filtering through a clean and responsive interface.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## ✨ Features
-- Fetch users from API
-- Search and filter functionality
-- Loading and error states
-- Reusable UI components
-- Basic design system approach (tokens for colors and spacing)
+Currently, two official plugins are available:
 
-## 🛠️ Technologies Used
-- React (useState, useEffect)
-- JavaScript
-- CSS
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 👀 How to View
-```bash
-npm install
-npm run dev
-```
+## React Compiler
 
-## 🖼️ Assets
-Data provided by: ...
+The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-## 📄 License
-This project is for educational purposes.
+Note: This will impact Vite dev & build performances.
 
-🖥️ Preview
-...
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
