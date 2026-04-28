@@ -18,11 +18,34 @@ A simple React application that fetches users from a public API and allows searc
 - JavaScript
 - CSS
 
-## 👀 How to View
-```bash
-npm install
-npm run dev
-```
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+* **Node.js**: v18.0.0 or higher
+* **npm**: (comes with Node.js)
+
+### Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/people-finder.git](https://github.com/your-username/people-finder.git)
+   ```
+2. **Navigate to the project directory**
+   ```bash
+   cd people-finder
+   ```
+4. Install dependencies
+   ```bash
+   npm install
+   ```
+6. Start the development server
+   ```bash
+   npm run dev
+   ```
+8. Open your browser
+   Navigate to http://localhost:5173 to see the application running.
 
 ## 🖼️ Assets
 - Data provided by: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
