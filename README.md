@@ -14,7 +14,7 @@ A simple React application that fetches users from a public API and allows searc
 - [ ] **Dark Mode**: Theme switching support based on system preferences.
 
 ## 🛠️ Technologies Used
-- React (useState, useEffect)
+- React
 - JavaScript
 - CSS
 
